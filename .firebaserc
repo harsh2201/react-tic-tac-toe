@@ -1,0 +1,17 @@
+{
+  "projects": {
+    "default": "react-portfolio-54ccd"
+  },
+  "targets": {
+    "react-portfolio-54ccd": {
+      "hosting": {
+        "firebase": [
+          "harsh-tic-tac-toe",
+          "hosting",
+          "target:apply",
+          "tic-tac-toe-game"
+        ]
+      }
+    }
+  }
+}

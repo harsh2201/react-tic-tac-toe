@@ -1,0 +1,7 @@
+{
+  "hosting": {
+    "site": "harsh-tic-tac-toe",
+    "public": "build",
+    "ignore": ["firebase.json", "**/.*", "**/node_modules/**"]
+  }
+}

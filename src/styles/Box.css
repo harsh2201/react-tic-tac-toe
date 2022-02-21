@@ -1,0 +1,10 @@
+.box-row {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.play-again-button {
+  margin-top: 20px;
+}
